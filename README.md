@@ -1,1 +1,1 @@
-# myAOJ
+# for AIZU ONLINE JUDGE
